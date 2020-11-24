@@ -1,6 +1,6 @@
 # Predict-Employee-Turnover-with-scikit-learn
 
-we will apply decision trees and random forests using scikit-learn and Python to build an employee churn prediction application with interactive controls and accomplish this with the help of following tasks in the project:
+We will apply decision trees and random forests using scikit-learn and Python to build an employee churn prediction application with interactive controls and accomplish this with the help of following tasks in the project:
 
   1:  Introduction and Import Libraries,
   
